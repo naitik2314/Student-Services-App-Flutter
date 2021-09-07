@@ -1,0 +1,4 @@
+#Tue Sep 07 23:51:44 IST 2021
+base.0=D\:\\Flutter Projects\\git-clones\\KalleHallden\\StudenServicesApp\\App\\student_services_app\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
